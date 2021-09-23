@@ -1,1 +1,1 @@
-simplest_gui demo
+the simplest gui demo
