@@ -1,4 +1,4 @@
-# 将(yaw,pitch,roll)角度从客户端发送到服务器
+# 将(yaw,pitch,roll)角度从客户端发送到服务器--发送功能实现了，但是数据都是0，然并卵
 
 **SensorServices.java:** `/gpac_public/applications/osmo4_android_studio/app/src/main/java/com/gpac/Osmo4/SensorServices.java`   (加了建立socket连接和发送函数sent_orieation)
 
