@@ -8,5 +8,8 @@
 
 **strings.xml:**` /gpac_public/applications/osmo4_android_studio/app/src/main/res/values/strings.xml`                               
 
-配合服务器一起用，在手机上输入服务器ip,然后点发送：
+
+配合服务器一起用，在客户端上输入服务器ip：
+
+
 ![image](https://user-images.githubusercontent.com/32926995/136167766-113349a9-9542-4fc1-ac49-af0c84ce3915.png)
