@@ -6,7 +6,9 @@
 
 **Osmo4.java:** `/gpac_public/applications/osmo4_android_studio/app/src/main/java/com/gpac/Osmo4/Osmo4.java`                        (case那里)  
 
-**strings.xml:**` /gpac_public/applications/osmo4_android_studio/app/src/main/res/values/strings.xml`                               
+**strings.xml:**` /gpac_public/applications/osmo4_android_studio/app/src/main/res/values/strings.xml`                  
+
+**server.java:**` 服务器程序`       
 
 
 配合服务器一起用，在客户端上输入服务器ip：
